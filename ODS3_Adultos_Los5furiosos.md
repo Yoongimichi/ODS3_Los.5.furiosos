@@ -16,6 +16,9 @@ https://www.texasheart.org/heart-health/heart-information-center/topics/factores
 - En México, cerca de 220 mil personas fallecieron por enfermedades cardiovasculares en 2021, de las cuales 177 mil fueron por infarto al miocardio, que puede ser prevenible al evitar o controlar los factores de riesgo como el tabaquismo, presión arterial alta, colesterol elevado y diabetes no controlada.
 https://www.gob.mx/salud/prensa/490-cada-ano-220-mil-personas-fallecen-debido-a-enfermedades-del-corazon
 
+- Se estima que 19,8 millones de personas fallecieron en 2022 como consecuencia de una enfermedad cardiovascular, lo que representa aproximadamente el 32 % de todas las muertes a escala mundial.
+https://www.who.int/es/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)#:~:text=Las%20enfermedades%20cardiovasculares%20(ECV)%20son,las%20muertes%20a%20escala%20mundial.
+
 
 
 - Integrantes:
