@@ -20,3 +20,12 @@ Por estos mismos factores las consecuencias son criticas, y en muchos casos mort
 - Insuficiencia cardíaca.
 
 # Exitos medibles
+
+
+
+#Referencias 
+https://www.mayoclinic.org/es/diseases-conditions/heart-disease/symptoms-causes/syc-20353118#:~:text=Causas%20de%20los%20latidos%20card%C3%ADacos,medicamentos%2C%20plantas%20medicinales%20y%20suplementos.
+
+https://continentalhospitals.com/es/blog/top-signs-you-should-see-a-cardiologist-near-you/#:~:text=Por%20qu%C3%A9%20es%20importante%20la,saludables%20con%20una%20intervenci%C3%B3n%20temprana.&text=Si%20experimenta%20alguno%20de%20los,da%20se%C3%B1ales%20de%20alerta:%20esc%C3%BAchelas.
+
+
