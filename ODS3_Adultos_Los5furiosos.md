@@ -2,8 +2,8 @@
 - 3: Salud y bienestar
 - 4: Educación de calidad
 
-- Problema a solucionar:
-Nuestro programa se enfocará en el conocieminto de la comunidad sobre problemas cardiacos y estado de salud cardiaca normal.
+- Problema:
+Los adultos mayores por lo general no saban identificar los sintomas de problemas del corazón, ocacionado poco tiempo de reacción ante situaciones críticas.
 
 - Población Objetivo:
 Adultos mayores de 45 años.
