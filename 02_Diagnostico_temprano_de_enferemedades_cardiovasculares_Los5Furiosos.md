@@ -20,7 +20,9 @@ Por estos mismos factores las consecuencias son criticas, y en muchos casos mort
 - Insuficiencia cardíaca.
 
 # Exitos medibles
-
+- El prototipo debe tener y mostrar al menos una visualización gráfica con datos reales.
+- El prototipo debe poder dejar al usuario contestar las diferentes encuestas sin más de 3 errores
+- El usuario puede navegar por el prototipo sin explicación externa
 
 
 #Referencias 
